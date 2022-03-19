@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/angelozerr/freemarker-languageserver.png)](http://travis-ci.org/angelozerr/freemarker-languageserver)
+Freemarker LSP with releases for ease of use.
 
 Freemarker Language Server
 ===========================
